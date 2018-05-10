@@ -1,12 +1,12 @@
 # Open-Flight-Route-Calculator (OpenFRC.py)
 
-__author__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang";
-__credits__ = ["Pablo Moreno García"];
-__license__ = "GNU GPLv3";
-__version__ = "1.0.0";
-__maintainer__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz";
-__email__ = "alberto.decelisro@alum.uca.es, eduardo.gilrodriguez@alum.uca.es, enrique.olveraruiz@alum.uca.es";
-__status__ = "Production";
+__author__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang"
+__credits__ = ["Pablo Moreno García"]
+__license__ = "GNU GPLv3"
+__version__ = "1.0.0"
+__maintainer__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz"
+__email__ = "alberto.decelisro@alum.uca.es, eduardo.gilrodriguez@alum.uca.es, enrique.olveraruiz@alum.uca.es"
+__status__ = "Production"
 
 Software designed for the calculation and plot of aviation routes (orthodromic and loxodromic routes), given two coordinates and a projection.
 
