@@ -1,4 +1,4 @@
-# Open-Flight-Route-Calculator (OpenFRC.py)
+# Open-Flight-Route-Calculator (OFRC.py)
 
 __author__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang"
 
