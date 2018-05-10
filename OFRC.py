@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 
-"""OpenFRC.py: This program has been developed with academic intends. It is not recommended using it with other purposes.
+"""OFRC.py: This program has been developed with academic intends. It is not recommended using it with other purposes.
 
 This program calculates ortodromic and loxodromic routes between two given points in the world and will plot them in a selected projection.
 
@@ -27,7 +27,6 @@ The expected output is a map with the plotted routes, and once it is closed, a g
 """
 
 __author__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang"
-__copyright__ = "Copyright 2018, Aerial navigation routes, calculation and representation."
 __credits__ = ["Pablo Moreno García"]
 __license__ = "GNU"
 __version__ = "1.0.0"
