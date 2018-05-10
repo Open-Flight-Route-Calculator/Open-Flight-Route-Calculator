@@ -1,6 +1,6 @@
 # Open-Flight-Route-Calculator (OFRC.py)
 
-__author__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang"
+__author__ = ["Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang"]
 
 __credits__ = ["Pablo Moreno García"]
 
