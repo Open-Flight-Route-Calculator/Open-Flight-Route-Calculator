@@ -1,4 +1,13 @@
 # Open-Flight-Route-Calculator (OpenFRC.py)
+
+__author__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz, Qiang Yang"
+__credits__ = ["Pablo Moreno García"]
+__license__ = "GNU GPLv3"
+__version__ = "1.0.0"
+__maintainer__ = "Alberto de Celis Romero, Eduardo Gil Rodríguez, Enrique Olvera Ruíz"
+__email__ = "alberto.decelisro@alum.uca.es, eduardo.gilrodriguez@alum.uca.es, enrique.olveraruiz@alum.uca.es"
+__status__ = "Production"
+
 Software designed for the calculation and plot of aviation routes (orthodromic and loxodromic routes), given two coordinates and a projection.
 
 This program has been developed with academic intends. It is not recommended using it with other purposes.
@@ -25,3 +34,4 @@ Madrid 40N 6W, Tokyo: 35N 139E, Chile 33S 70W.
 
 The expected output is a map with the plotted routes, and once it is closed, a graph which prints latitude, longitude and heading versus distance.
 
+The libraries needed are: mpl_toolkits, matplotlib, math, os and numpy.
