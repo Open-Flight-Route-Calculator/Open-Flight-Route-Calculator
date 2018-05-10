@@ -42,3 +42,11 @@ Madrid 40N 6W, Tokyo: 35N 139E, Chile 33S 70W.
 The expected output is a map with the plotted routes, and once it is closed, a graph which prints latitude, longitude and heading versus distance.
 
 The libraries needed are: mpl_toolkits, matplotlib, math, os and numpy.
+
+EXAMPLES:
+
+![Screenshot](Ortographic_Projection.png)
+![Screenshot](Mercator_Projection.png)
+![Screenshot](Lambert_Projection.png)
+![Screenshot](graph_hongkong-london.png)
+
